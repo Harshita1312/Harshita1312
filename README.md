@@ -1,5 +1,7 @@
+[![MasterHead](https://in.pinterest.com/pin/764837949221236977/)](https://Harshita1312.io)
 <h1 align="center">Hi 👋, I'm Harshita Jalan</h1>
 <h3 align="center">A passionate CSE 2nd year student from India</h3>
+img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita1312&label=Profile%20views&color=0e75b6&style=flat" alt="harshita1312" /> </p>
 
@@ -10,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshita1312&show_icons=true&locale=en&layout=compact" alt="harshita1312" /></p>
 
