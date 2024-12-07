@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita1312&label=Profile%20views&color=0e75b6&style=flat" alt="harshita1312" /> </p>
 
-- 🌱 I’m currently learning **WD,DBMS**
+- 🌱 I’m currently learning **AI,ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
